@@ -1,0 +1,39 @@
+
+h3 {
+  background-color: var(--yellow);
+  margin-top: 100px;
+}
+
+.wrapper__assortment-item-list {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-between;
+}
+
+.wrapper__assortment-item-list > div {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 382px;
+  height: 392px;
+}
+
+.wrapper__assortment-item-list img {
+  height: 300px;
+}
+
+h4 {
+  position: absolute;
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: var(--black);
+  bottom: 0;
+}
+
+footer h3 {
+  margin-top: 0px;
+}

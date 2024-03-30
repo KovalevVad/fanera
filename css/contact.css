@@ -1,0 +1,13 @@
+
+.wrapper__contact h3 {
+  margin-top: 100px;
+  background-color: var(--yellow);
+}
+
+.wrapper__watchWork {
+  margin-top: 50px;
+}
+
+.wrapper__application {
+  margin-bottom: 100px;
+}
