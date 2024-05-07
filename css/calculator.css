@@ -35,7 +35,7 @@
   background: #8da09c;
   box-shadow: 10px 4px 4px 0 rgba(0, 0, 0, 0.25);
 
-  font-family: var(--third-family);
+  font-family: var(--font-family);
   font-weight: 400;
   font-size: 80px;
   line-height: 120%;
